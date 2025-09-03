@@ -1,0 +1,10 @@
+<gresources>
+  <gresource prefix="/org">
+    <file>icons/delete.png</file>
+    <file>icons/save-enabled.png</file>
+    <file>icons/save-disabled.png</file>
+    <file>icons/server.png</file>
+    <file>icons/server-add.png</file>
+    <file>icons/question-mark.png</file>
+  </gresource>
+</gresources>
